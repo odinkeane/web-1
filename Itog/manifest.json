@@ -1,0 +1,23 @@
+{
+    "name":"Asian Horizons - Путешествия по Азии",
+    "short_name": "Asian Horizons",
+    "icons":[
+        {
+            "src": "./images/logo/192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },{
+            "src": "./images/logo/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+     "id": "/vidd/?source=pwa",
+     "start_url": "/vidd/?source=pwa",
+     "background_color":"black",
+     "theme_color": "black",
+     "description": "Asian Horizons - Путешествия по Азии",
+     "display": "standalone",
+     "orientation": "portrait"
+
+}
